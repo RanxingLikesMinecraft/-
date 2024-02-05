@@ -5,10 +5,10 @@
 ## 一、场景
 
 我认为用这样一种交互方式可以让玩家感到一种“迷离”之感
-![scene]https://github.com/RanxingLikesMinecraft/-/blob/main/%E4%BA%A4%E4%BA%92.png)
+![交互](https://github.com/RanxingLikesMinecraft/-/blob/main/%E4%BA%A4%E4%BA%92.png)
 
 ### 可以选择丰富的场景来增加其艺术价值
-![flower]https://github.com/RanxingLikesMinecraft/-/blob/main/%E8%8A%B1.png)
+![花](https://github.com/RanxingLikesMinecraft/-/blob/main/%E8%8A%B1.png)
 
 ### 二、NPC
 
