@@ -5,16 +5,14 @@
 ## 一、场景
 
 我认为用这样一种交互方式可以让玩家感到一种“迷离”之感
+![](https://github.com/RanxingLikesMinecraft/-/blob/main/%E4%BA%A4%E4%BA%92.png)
 
-###
-
-可以选择丰富的场景来增加其艺术价值
-
-![](file://C:\Users\Administrator\AppData\Roaming\marktext\images\2024-02-04-19-04-27-image.png?msec=1707140365037)
+### 可以选择丰富的场景来增加其艺术价值
+![](https://github.com/RanxingLikesMinecraft/-/blob/main/%E8%8A%B1.png)
 
 ### 二、NPC
 
-![](file://C:\Users\Administrator\AppData\Roaming\marktext\images\2024-02-04-19-02-18-image.png?msec=1707140365037)
+![](https://github.com/RanxingLikesMinecraft/-/blob/main/NPC.png)
 
 我认为以这种怪诞的风格能让玩家 _"dream core"_ 的感觉更强烈
 
