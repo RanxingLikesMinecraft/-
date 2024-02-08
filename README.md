@@ -42,8 +42,18 @@
 #### 可以将"灯光"一直重复开关
 
 ~~那事先肯定得声明光敏性癫痫患者不许玩~~
+### 六、代码
+#### 我认为可以使用一些3D引擎，最好是Unity 或者 Godot
+```csharp
+using Godot;
+using System;
+static public void _Process(){
+  GD.Print("一刻");
+}
+```
+Godot示例
 
-## 六、结尾
+## 七、结尾
 
 图片来源：[https://www.youtube.com/shorts/IjA7mDS9cxM](url)
 
